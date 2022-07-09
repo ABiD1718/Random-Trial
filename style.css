@@ -1,0 +1,148 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.half {
+    width: 50%;
+}
+
+.upper {
+    display: flex;
+}
+
+.upper h1 {
+    font-size: 3.5rem;
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(78, 69, 69);
+}
+
+.upper p {
+    font-size: 1.2rem;
+    color: grey;
+    text-align: center;
+}
+
+.upper button {
+    color: white;
+    background-image: linear-gradient(to right, rgb(240, 100, 100), rgb(238, 159, 159));
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    font-size: 1rem;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+
+.upper img {
+    height: 600px;
+    width: 700px;
+    margin-top: 4%;
+    margin-right: 10%;
+}
+
+#pink {
+    color: hotpink;
+}
+
+#content {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    margin-top: 100px;
+}
+
+#btn {
+    margin-left: 40%;
+}
+
+.random div {
+    text-align: center;
+    color: rgb(68, 63, 63);
+    margin-top: 7%;
+    /* margin-bottom: 7%; */
+}
+
+.random h1 {
+    font-size: 3rem;
+}
+
+.our-menu {
+    margin-top: 7%;
+}
+
+.our-menu h1 {
+    font-size: 3rem;
+    color: #645959;
+}
+
+.our-menu p {
+    font-size: 1.5rem;
+    color: #645959;
+}
+
+.our-menu h1,
+p {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+}
+
+.food {
+    box-shadow: 10px 10px 40px #888888;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 40%;
+    margin-right: 5%;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: wheat;
+}
+
+.item-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+
+}
+
+.viewer {
+    display: flex;
+    text-align: center;
+    margin: 3% 10%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.viewer h1 {
+    font-size: 3rem;
+}
+
+#vie {
+    margin-top: 10%;
+}
+
+.abid {
+    padding: 50px;
+    margin-left: 13%;
+}
+
+.footer {
+    background-color: black;
+    padding: 100px;
+    color: white;
+}
+
+#eat {
+    color: orange;
+    font-size: 1.9rem;
+    font-weight: 600;
+}
+
+#fresh {
+    color: rgb(56, 53, 53);
+    font-size: 1.9rem;
+    font-weight: 600;
+}
